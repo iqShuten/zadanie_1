@@ -1,0 +1,23 @@
+/*font-family: 'Open Sans', sans-serif;
+/* font-family: 'Oswald', sans-serif; */
+html {
+    box-sizing: border-box;
+}
+*, *::before, *::after {
+    block-size: inherit;
+}
+
+.header {
+}
+.header__title {
+}
+.logo {
+}
+.burger {
+}
+.burger__line {
+}
+.h1 {
+}
+.h4 {
+}
